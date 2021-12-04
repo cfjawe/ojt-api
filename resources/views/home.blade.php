@@ -1,4 +1,4 @@
-div class="header">
+<div class="header">
   <a href="#default" class="logo">Info Center</a>
   <div class="header-right">
     <a class="active" href="index.blade.php">Home</a>
