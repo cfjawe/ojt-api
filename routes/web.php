@@ -15,7 +15,7 @@ use App\Http\Controllers\fortnite;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('home');
     
 });
 
